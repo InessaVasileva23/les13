@@ -1,0 +1,73 @@
+янв. 14, 2021 10:21:59 PM com.company.Main main
+INFO: Начало main, создаем лист с типизацией Integers
+янв. 14, 2021 10:44:51 PM com.company.Main main
+INFO: Начало Main, создание объектов для чтения файла products.txt
+янв. 14, 2021 10:44:51 PM com.company.Main main
+INFO: Старт считывания файла products.txt
+янв. 14, 2021 10:44:51 PM com.company.Main main
+INFO: Окончание считывания файла products.txt
+янв. 14, 2021 10:44:51 PM com.company.Main main
+INFO: Окончание работы программы Main
+янв. 14, 2021 10:45:02 PM com.company.Main main
+INFO: Начало Main, создание объектов для чтения файла products.txt
+янв. 14, 2021 10:45:02 PM com.company.Main main
+INFO: Старт считывания файла products.txt
+янв. 14, 2021 10:45:02 PM com.company.Main main
+INFO: Окончание считывания файла products.txt
+янв. 14, 2021 10:45:02 PM com.company.Main main
+INFO: Окончание работы программы Main
+янв. 14, 2021 10:46:38 PM com.company.Main main
+INFO: Начало Main, создание объектов для чтения файла products.txt
+янв. 14, 2021 10:46:39 PM com.company.Main main
+INFO: Старт считывания файла products.txt
+янв. 14, 2021 10:46:39 PM com.company.Main main
+INFO: Окончание считывания файла products.txt
+янв. 14, 2021 10:46:39 PM com.company.Main main
+INFO: Окончание работы программы Main
+янв. 14, 2021 10:47:32 PM com.company.Main main
+INFO: Начало Main, создание объектов для чтения файла products.txt
+янв. 14, 2021 10:47:32 PM com.company.Main main
+WARNING: Ошибка при поиске файла
+java.io.FileNotFoundException: C:\SomeDir\products.txt (Не удается найти указанный файл)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileReader.<init>(FileReader.java:75)
+	at com.company.Main.main(Main.java:32)
+
+янв. 14, 2021 10:47:32 PM com.company.Main main
+INFO: Окончание работы программы Main
+янв. 14, 2021 11:06:04 PM com.company.Main main
+INFO: Начало Main, создание объектов для чтения файла products.txt
+янв. 14, 2021 11:06:04 PM com.company.Main main
+WARNING: Ошибка при поиске файла
+java.io.FileNotFoundException: C:\SomeDir\products.txt (Не удается найти указанный файл)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileReader.<init>(FileReader.java:75)
+	at com.company.Main.main(Main.java:34)
+
+янв. 14, 2021 11:06:04 PM com.company.Main main
+INFO: Окончание работы программы Main
+янв. 14, 2021 11:10:44 PM com.company.Main main
+INFO: Начало Main, создание объектов для чтения файла products.txt
+янв. 14, 2021 11:10:44 PM com.company.Main main
+WARNING: Ошибка при поиске файла
+java.io.FileNotFoundException: C:\SomeDir\products.txt (Не удается найти указанный файл)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileReader.<init>(FileReader.java:75)
+	at com.company.Main.main(Main.java:34)
+
+янв. 14, 2021 11:10:44 PM com.company.Main main
+INFO: Окончание работы программы Main
+янв. 14, 2021 11:11:39 PM com.company.Main main
+INFO: Начало Main, создание объектов для чтения файла products.txt
+янв. 14, 2021 11:11:39 PM com.company.Main main
+INFO: Старт считывания файла products.txt
+янв. 14, 2021 11:11:39 PM com.company.Main main
+INFO: Окончание считывания файла products.txt
+янв. 14, 2021 11:11:39 PM com.company.Main main
+INFO: Окончание работы программы Main
